@@ -1,0 +1,28 @@
+{
+	"name": "vscode-icontheme-nomo-dark",
+	"displayName": "Nomo Dark Icon Theme",
+	"description": "Nomo Dark Icon Theme",
+	"version": "1.0.0",
+	"publisher": "be5invis",
+	"author": {
+		"email": "belleve@typeof.net",
+		"name": "Belleve Invis",
+		"url": "https://typeof.net"
+	},
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "./logo.png",
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "vs-nomo-dark",
+				"label": "Nomo Dark for Visual Studio Code",
+				"path": "./icons.json"
+			}
+		]
+	}
+}

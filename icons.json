@@ -1,0 +1,316 @@
+{
+	"iconDefinitions": {
+		// File types
+		"file.json": {
+			"iconPath": "./icons/file.json.png"
+		},
+		"file.c": {
+			"iconPath": "./icons/file.c.png"
+		},
+		"file.cpp": {
+			"iconPath": "./icons/file.cpp.png"
+		},
+		"file.h": {
+			"iconPath": "./icons/file.h.png"
+		},
+		"file.js": {
+			"iconPath": "./icons/file.js.png"
+		},
+		"file.html": {
+			"iconPath": "./icons/file.html.png"
+		},
+		"file.css": {
+			"iconPath": "./icons/file.css.png"
+		},
+		"file.stylus": {
+			"iconPath": "./icons/file.stylus.png"
+		},
+		"file.sass": {
+			"iconPath": "./icons/file.sass.png"
+		},
+		"file.less": {
+			"iconPath": "./icons/file.less.png"
+		},
+		"file.markdown": {
+			"iconPath": "./icons/file.markdown.png"
+		},
+		"file.xml": {
+			"iconPath": "./icons/file.xml.png"
+		},
+		"file.cs": {
+			"iconPath": "./icons/file.cs.png"
+		},
+		"file.fs": {
+			"iconPath": "./icons/file.fs.png"
+		},
+		"file.go": {
+			"iconPath": "./icons/file.go.png"
+		},
+		"file.lua": {
+			"iconPath": "./icons/file.lua.png"
+		},
+		"file.rust": {
+			"iconPath": "./icons/file.rust.png"
+		},
+		"file.ruby": {
+			"iconPath": "./icons/file.ruby.png"
+		},
+		"file.python": {
+			"iconPath": "./icons/file.python.png"
+		},
+		"file.php": {
+			"iconPath": "./icons/file.php.png"
+		},
+		"file.julia": {
+			"iconPath": "./icons/file.julia.png"
+		},
+		"file.haxe": {
+			"iconPath": "./icons/file.haxe.png"
+		},
+		"file.java": {
+			"iconPath": "./icons/file.java.png"
+		},
+		"file.ts": {
+			"iconPath": "./icons/file.ts.png"
+		},
+		"file.d.ts": {
+			"iconPath": "./icons/file.d.ts.png"
+		},
+		"file.vue": {
+			"iconPath": "./icons/file.vue.png"
+		},
+		"file.haskell": {
+			"iconPath": "./icons/file.haskell.png"
+		},
+		"file.elixir": {
+			"iconPath": "./icons/file.elixir.png"
+		},
+		"file.text": {
+			"iconPath": "./icons/file.text.png"
+		},
+		"file.image": {
+			"iconPath": "./icons/file.image.png"
+		},
+		"file.font": {
+			"iconPath": "./icons/file.font.png"
+		},
+		"file.shell": {
+			"iconPath": "./icons/file.shell.png"
+		},
+		"file.binary": {
+			"iconPath": "./icons/file.binary.png"
+		},
+		"file.zip": {
+			"iconPath": "./icons/file.zip.png"
+		},
+		"file.clojure": {
+			"iconPath": "./icons/file.clojure.png"
+		},
+		// Config giles
+		"config.npm": {
+			"iconPath": "./icons/config.npm.png"
+		},
+		"config.git": {
+			"iconPath": "./icons/config.git.png"
+		},
+		"config.travis": {
+			"iconPath": "./icons/config.travis.png"
+		},
+		"config.appveyor": {
+			"iconPath": "./icons/config.appveyor.png"
+		},
+		"config.license": {
+			"iconPath": "./icons/config.license.png"
+		},
+		"config.editorconfig": {
+			"iconPath": "./icons/config.editorconfig.png"
+		},
+		"config.makefile": {
+			"iconPath": "./icons/config.makefile.png"
+		},
+		// Folders
+		"folder.test.close": {
+			"iconPath": "./icons/folder.test.close.png"
+		},
+		"folder.test.open": {
+			"iconPath": "./icons/folder.test.open.png"
+		},
+		"folder.vscode.close": {
+			"iconPath": "./icons/folder.vscode.close.png"
+		},
+		"folder.vscode.open": {
+			"iconPath": "./icons/folder.vscode.open.png"
+		},
+		"folder.git.close": {
+			"iconPath": "./icons/folder.git.close.png"
+		},
+		"folder.git.open": {
+			"iconPath": "./icons/folder.git.open.png"
+		},
+		"folder.js.close": {
+			"iconPath": "./icons/folder.js.close.png"
+		},
+		"folder.js.open": {
+			"iconPath": "./icons/folder.js.open.png"
+		},
+		"folder.build.close": {
+			"iconPath": "./icons/folder.build.close.png"
+		},
+		"folder.build.open": {
+			"iconPath": "./icons/folder.build.open.png"
+		},
+		"folder.src.close": {
+			"iconPath": "./icons/folder.src.close.png"
+		},
+		"folder.src.open": {
+			"iconPath": "./icons/folder.src.open.png"
+		},
+		"folder.ts.close": {
+			"iconPath": "./icons/folder.ts.close.png"
+		},
+		"folder.ts.open": {
+			"iconPath": "./icons/folder.ts.open.png"
+		},
+		// General
+		"_folder_dark": {
+			"iconPath": "./icons/folder.close.svg"
+		},
+		"_folder_open_dark": {
+			"iconPath": "./icons/folder.open.svg"
+		},
+		"_file_dark": {
+			"iconPath": "./icons/file.svg"
+		}
+	},
+	"folderExpanded": "_folder_open_dark",
+	"folder": "_folder_dark",
+	"file": "_file_dark",
+	"fileExtensions": {
+		"json": "file.json",
+		"c": "file.c",
+		"h": "file.h",
+		"cpp": "file.cpp",
+		"cc": "file.ccp",
+		"cxx": "file.cpp",
+		"hpp": "file.h",
+		"js": "file.js",
+		"jsx": "file.js",
+		"html": "file.html",
+		"htm": "file.html",
+		"css": "file.css",
+		"styl": "file.stylus",
+		"sass": "file.sass",
+		"scss": "file.sass",
+		"less": "file.less",
+		"md": "file.markdown",
+		"cs": "file.cs",
+		"fs": "file.fs",
+		"go": "file.go",
+		"lua": "file.lua",
+		"rs": "file.rust",
+		"py": "file.python",
+		"rb": "file.ruby",
+		"jl": "file.julia",
+		"php": "file.php",
+		"haxe": "file.haxe",
+		"hxml": "file.haxe",
+		"java": "file.java",
+		"ts": "file.ts",
+		"vue": "file.vue",
+		"xml": "file.xml",
+		"bmp": "file.image",
+		"jpg": "file.image",
+		"jpeg": "file.image",
+		"gif": "file.image",
+		"png": "file.image",
+		"svg": "file.image",
+		"tif": "file.image",
+		"tiff": "file.image",
+		"psd": "file.image",
+		"psb": "file.image",
+		"ttf": "file.font",
+		"otf": "file.font",
+		"woff": "file.font",
+		"woff2": "file.font",
+		"sfd": "file.font",
+		"eot": "file.font",
+		"otd": "file.json",
+		"ex": "file.elixir",
+		"txt": "file.text",
+		"hs": "file.haskell",
+		"mk": "config.makefile",
+		"make": "config.makefile",
+		"sh": "file.shell",
+		"zsh": "file.shell",
+		"bash": "file.shell",
+		"fish": "file.shell",
+		"elv": "file.shell",
+		"bat": "file.shell",
+		"cmd": "file.shell",
+		"bin": "file.binary",
+		"exe": "file.binary",
+		"dll": "file.binary",
+		"lib": "file.binary",
+		"o": "file.binary",
+		"a": "file.binary",
+		"zip": "file.zip",
+		"tar": "file.zip",
+		"gz": "file.zip",
+		"xz": "file.zip",
+		"bzip2": "file.zip",
+		"7z": "file.zip",
+		"rar": "file.zip",
+		"clj": "file.clojure"
+	},
+	"fileNames": {
+		"package.json": "config.npm",
+		".npmignore": "config.npm",
+		".gitignore": "config.git",
+		".gitattributes": "config.git",
+		".travis.yml": "config.travis",
+		"appveyor.yml": "config.appveyor",
+		"licence": "config.license",
+		"license": "config.license",
+		"licence.md": "config.license",
+		"license.md": "config.license",
+		"copying": "config.license",
+		".editorconfig": "config.editorconfig",
+		"*.d.ts": "file.d.ts",
+		"readme.md": "file.markdown",
+		"makefile": "config.makefile",
+		"readme": "file.text",
+		"install": "file.text",
+		"releases": "file.text"
+	},
+	"folderNames": {
+		".vscode": "folder.vscode.close",
+		".git": "folder.git.close",
+		"test": "folder.test.close",
+		"tests": "folder.test.close",
+		"node_modules": "folder.js.close",
+		"build": "folder.build.close",
+		"bin": "folder.build.close",
+		"dist": "folder.build.close",
+		"src": "folder.src.close",
+		"source": "folder.src.close",
+		"lib": "folder.src.close",
+		"typings": "folder.ts.close"
+	},
+	"folderNamesExpanded": {
+		".vscode": "folder.vscode.open",
+		".git": "folder.git.open",
+		"test": "folder.test.open",
+		"tests": "folder.test.open",
+		"node_modules": "folder.js.open",
+		"build": "folder.build.open",
+		"bin": "folder.build.open",
+		"dist": "folder.build.open",
+		"src": "folder.src.open",
+		"source": "folder.src.open",
+		"lib": "folder.src.open",
+		"typings": "folder.ts.open"
+	},
+	"languageIds": {
+		// icons by language id
+	}
+}
