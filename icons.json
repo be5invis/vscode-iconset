@@ -106,7 +106,7 @@
 		"file.clojure": {
 			"iconPath": "./icons/file.clojure.png"
 		},
-		// Config giles
+		// Config files
 		"config.npm": {
 			"iconPath": "./icons/config.npm.png"
 		},
