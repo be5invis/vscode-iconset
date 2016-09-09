@@ -106,6 +106,36 @@
 		"file.clojure": {
 			"iconPath": "./icons/file.clojure.png"
 		},
+		"file.sourcemap": {
+			"iconPath": "./icons/file.sourcemap.png"
+		},
+		"file.lib": {
+			"iconPath": "./icons/file.lib.png"
+		},
+		"file.exe": {
+			"iconPath": "./icons/file.exe.png"
+		},
+		"file.scala": {
+			"iconPath": "./icons/file.scala.png"
+		},
+		"file.jade": {
+			"iconPath": "./icons/file.jade.png"
+		},
+		"file.scheme": {
+			"iconPath": "./icons/file.scheme.png"
+		},
+		"file.lisp": {
+			"iconPath": "./icons/file.lisp.png"
+		},
+		"file.elisp": {
+			"iconPath": "./icons/file.elisp.png"
+		},
+		"file.ptl": { // this is ad.
+			"iconPath": "./icons/file.ptl.png"
+		},
+		"file.coffeescript": {
+			"iconPath": "./icons/file.coffeescript.png"
+		},
 		// Config files
 		"config.npm": {
 			"iconPath": "./icons/config.npm.png"
@@ -220,6 +250,37 @@
 		"ts": "file.ts",
 		"vue": "file.vue",
 		"xml": "file.xml",
+		"coffee": "file.coffeescript",
+		"litcoffee": "file.coffeescript",
+		"ex": "file.elixir",
+		"clj": "file.clojure",
+		"ss": "file.scheme",
+		"scm": "file.scheme",
+		"lisp": "file.lisp",
+		"lsp": "file.lisp",
+		"l": "file.lisp",
+		"cl": "file.lisp",
+		"fasl": "file.lisp",
+		"el": "file.elisp",
+		"elc": "file.elisp",
+		"ptl": "file.ptl",
+		"patel": "file.ptl",
+		"hs": "file.haskell",
+		"mk": "config.makefile",
+		"make": "config.makefile",
+		"jade": "file.jade",
+		"scala": "file.scala",
+		"d.ts": "file.d.ts",
+		"js.map": "file.sourcemap",
+		"css.map": "file.sourcemap",
+		"sh": "file.shell",
+		"zsh": "file.shell",
+		"bash": "file.shell",
+		"fish": "file.shell",
+		"elv": "file.shell",
+		"bat": "file.shell",
+		"cmd": "file.shell",
+		"txt": "file.text",
 		"bmp": "file.image",
 		"jpg": "file.image",
 		"jpeg": "file.image",
@@ -237,32 +298,19 @@
 		"sfd": "file.font",
 		"eot": "file.font",
 		"otd": "file.json",
-		"ex": "file.elixir",
-		"txt": "file.text",
-		"hs": "file.haskell",
-		"mk": "config.makefile",
-		"make": "config.makefile",
-		"sh": "file.shell",
-		"zsh": "file.shell",
-		"bash": "file.shell",
-		"fish": "file.shell",
-		"elv": "file.shell",
-		"bat": "file.shell",
-		"cmd": "file.shell",
 		"bin": "file.binary",
-		"exe": "file.binary",
-		"dll": "file.binary",
-		"lib": "file.binary",
+		"exe": "file.exe",
+		"dll": "file.lib",
+		"lib": "file.lib",
 		"o": "file.binary",
-		"a": "file.binary",
+		"a": "file.lib",
 		"zip": "file.zip",
 		"tar": "file.zip",
 		"gz": "file.zip",
 		"xz": "file.zip",
 		"bzip2": "file.zip",
 		"7z": "file.zip",
-		"rar": "file.zip",
-		"clj": "file.clojure"
+		"rar": "file.zip"
 	},
 	"fileNames": {
 		"package.json": "config.npm",
@@ -277,7 +325,6 @@
 		"license.md": "config.license",
 		"copying": "config.license",
 		".editorconfig": "config.editorconfig",
-		"*.d.ts": "file.d.ts",
 		"readme.md": "file.markdown",
 		"makefile": "config.makefile",
 		"readme": "file.text",
