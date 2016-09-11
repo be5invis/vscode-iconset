@@ -10,6 +10,9 @@
 		"file.cpp": {
 			"iconPath": "./icons/file.cpp.png"
 		},
+		"file.d": {
+			"iconPath": "./icons/file.d.png"
+		},
 		"file.h": {
 			"iconPath": "./icons/file.h.png"
 		},
@@ -179,6 +182,9 @@
 		"config.makefile": {
 			"iconPath": "./icons/config.makefile.png"
 		},
+		"config.dub": {
+			"iconPath": "./icons/config.dub.png"
+		},
 		// Folders
 		"folder.test.close": {
 			"iconPath": "./icons/folder.test.close.png"
@@ -246,6 +252,8 @@
 		"cpp": "file.cpp",
 		"cc": "file.ccp",
 		"cxx": "file.cpp",
+		"d": "file.d",
+		"di": "file.d",
 		"js": "file.js",
 		"jsx": "file.js",
 		"html": "file.html",
@@ -357,7 +365,10 @@
 		"releases": "file.text",
 		".bowerrc": "config.bower",
 		"bower.json": "config.bower",
-		"dockerfile": "config.docker"
+		"dockerfile": "config.docker",
+		"dub.json": "config.dub",
+		"dub.sdl": "config.dub",
+		"dub.selections.json": "config.dub"
 	},
 	"folderNames": {
 		".vscode": "folder.vscode.close",
