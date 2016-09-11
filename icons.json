@@ -329,6 +329,7 @@
 		"lib": "file.lib",
 		"o": "file.binary",
 		"a": "file.lib",
+		"so": "file.lib",
 		"zip": "file.zip",
 		"tar": "file.zip",
 		"gz": "file.zip",
