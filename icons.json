@@ -154,6 +154,9 @@
 		"file.vb": {
 			"iconPath": "./icons/file.vb.png"
 		},
+		"file.handlebars": {
+			"iconPath": "./icons/file.handlebars.png"
+		},
 		// Config files
 		"config.npm": {
 			"iconPath": "./icons/config.npm.png"
@@ -184,6 +187,18 @@
 		},
 		"config.dub": {
 			"iconPath": "./icons/config.dub.png"
+		},
+		"config.grunt": {
+			"iconPath": "./icons/config.grunt.png"
+		},
+		"config.gulp": {
+			"iconPath": "./icons/config.gulp.png"
+		},
+		"config.eslint": {
+			"iconPath": "./icons/config.eslint.png"
+		},
+		"config.babel": {
+			"iconPath": "./icons/config.babel.png"
 		},
 		// Folders
 		"folder.test.close": {
@@ -344,7 +359,8 @@
 		"xz": "file.zip",
 		"bzip2": "file.zip",
 		"7z": "file.zip",
-		"rar": "file.zip"
+		"rar": "file.zip",
+		"hbs": "file.handlebars"
 	},
 	"fileNames": {
 		"package.json": "config.npm",
@@ -369,7 +385,11 @@
 		"dockerfile": "config.docker",
 		"dub.json": "config.dub",
 		"dub.sdl": "config.dub",
-		"dub.selections.json": "config.dub"
+		"dub.selections.json": "config.dub",
+		"gruntfile": "config.grunt",
+		"gulpfile": "config.gulp",
+		".eslintrc": "config.eslint",
+		".babelrc": "config.babel"
 	},
 	"folderNames": {
 		".vscode": "folder.vscode.close",
