@@ -130,11 +130,26 @@
 		"file.elisp": {
 			"iconPath": "./icons/file.elisp.png"
 		},
+		"file.tex": {
+			"iconPath": "./icons/file.tex.png"
+		},
 		"file.ptl": { // this is ad.
 			"iconPath": "./icons/file.ptl.png"
 		},
+		"file.erlang": {
+			"iconPath": "./icons/file.erlang.png"
+		},
+		"file.swift": {
+			"iconPath": "./icons/file.swift.png"
+		},
 		"file.coffeescript": {
 			"iconPath": "./icons/file.coffeescript.png"
+		},
+		"file.objc": {
+			"iconPath": "./icons/file.objc.png"
+		},
+		"file.vb": {
+			"iconPath": "./icons/file.vb.png"
 		},
 		// Config files
 		"config.npm": {
@@ -154,6 +169,12 @@
 		},
 		"config.editorconfig": {
 			"iconPath": "./icons/config.editorconfig.png"
+		},
+		"config.bower": {
+			"iconPath": "./icons/config.bower.png"
+		},
+		"config.docker": {
+			"iconPath": "./icons/config.docker.png"
 		},
 		"config.makefile": {
 			"iconPath": "./icons/config.makefile.png"
@@ -266,6 +287,10 @@
 		"ptl": "file.ptl",
 		"patel": "file.ptl",
 		"hs": "file.haskell",
+		"erl": "file.erlang",
+		"swift": "file.swift",
+		"tex": "file.tex",
+		"vb": "file.vb",
 		"mk": "config.makefile",
 		"make": "config.makefile",
 		"jade": "file.jade",
@@ -329,7 +354,10 @@
 		"makefile": "config.makefile",
 		"readme": "file.text",
 		"install": "file.text",
-		"releases": "file.text"
+		"releases": "file.text",
+		".bowerrc": "config.bower",
+		"bower.json": "config.bower",
+		"dockerfile": "config.docker"
 	},
 	"folderNames": {
 		".vscode": "folder.vscode.close",
@@ -360,6 +388,6 @@
 		"typings": "folder.ts.open"
 	},
 	"languageIds": {
-		// icons by language id
+		"objective-c": "file.objc"
 	}
 }
