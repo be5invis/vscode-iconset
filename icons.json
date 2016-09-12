@@ -163,6 +163,9 @@
 		"file.pester": {
 			"iconPath": "./icons/file.pester.png"
 		},
+		"file.slim": {
+			"iconPath": "./icons/file.slim.png"
+		},
 		// Config files
 		"config.npm": {
 			"iconPath": "./icons/config.npm.png"
@@ -205,6 +208,9 @@
 		},
 		"config.babel": {
 			"iconPath": "./icons/config.babel.png"
+		},
+		"config.vs": {
+			"iconPath": "./icons/config.vs.png"
 		},
 		// Folders
 		"folder.test.close": {
@@ -317,6 +323,9 @@
 		"ptl": "file.ptl",
 		"patel": "file.ptl",
 		"hs": "file.haskell",
+		"lhs": "file.haskell",
+		"slim": "file.slim",
+		"skim": "file.slim",
 		"erl": "file.erlang",
 		"swift": "file.swift",
 		"tex": "file.tex",
@@ -374,6 +383,7 @@
 	"fileNames": {
 		"package.json": "config.npm",
 		".npmignore": "config.npm",
+		".tfignore": "config.vs",
 		".gitignore": "config.git",
 		".gitattributes": "config.git",
 		".travis.yml": "config.travis",
@@ -429,6 +439,7 @@
 		"typings": "folder.ts.open"
 	},
 	"languageIds": {
-		"objective-c": "file.objc"
+		"objective-c": "file.objc",
+		"slim": "slim"
 	}
 }
