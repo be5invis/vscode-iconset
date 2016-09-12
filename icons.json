@@ -157,6 +157,12 @@
 		"file.handlebars": {
 			"iconPath": "./icons/file.handlebars.png"
 		},
+		"file.powershell": {
+			"iconPath": "./icons/file.powershell.png"
+		},
+		"file.pester": {
+			"iconPath": "./icons/file.pester.png"
+		},
 		// Config files
 		"config.npm": {
 			"iconPath": "./icons/config.npm.png"
@@ -292,6 +298,7 @@
 		"hxml": "file.haxe",
 		"java": "file.java",
 		"ts": "file.ts",
+		"d.ts": "file.d.ts",
 		"vue": "file.vue",
 		"xml": "file.xml",
 		"coffee": "file.coffeescript",
@@ -318,7 +325,6 @@
 		"make": "config.makefile",
 		"jade": "file.jade",
 		"scala": "file.scala",
-		"d.ts": "file.d.ts",
 		"js.map": "file.sourcemap",
 		"css.map": "file.sourcemap",
 		"sh": "file.shell",
@@ -360,7 +366,10 @@
 		"bzip2": "file.zip",
 		"7z": "file.zip",
 		"rar": "file.zip",
-		"hbs": "file.handlebars"
+		"hbs": "file.handlebars",
+		"ps1": "file.powershell",
+		"tests.ps1": "file.pester",
+		"test.ps1": "file.pester"
 	},
 	"fileNames": {
 		"package.json": "config.npm",
