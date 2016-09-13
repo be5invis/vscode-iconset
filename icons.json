@@ -277,7 +277,7 @@
 		"hxx": "file.h",
 		"hh": "file.h",
 		"cpp": "file.cpp",
-		"cc": "file.ccp",
+		"cc": "file.cpp",
 		"cxx": "file.cpp",
 		"d": "file.d",
 		"di": "file.d",
