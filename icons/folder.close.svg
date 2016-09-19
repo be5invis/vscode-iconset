@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16"
-   height="16" viewBox="-7 9 16 16" style="enable-background:new -7 9 20 20;">
-<style type="text/css">
-	.icon_x002D_folder{fill:#DCB67A;}
-</style>
-<path class="icon_x002D_folder" d="M7.5,11H0l-1,2h-3.5C-4.8,13-5,13.2-5,13.5v8c0,0.3,0.2,0.5,0.5,0.5h12C7.8,22,8,21.8,8,21.5v-10C8,11.2,7.8,11,7.5,11z M7,13H0.5L1,12h0h6V13z"/>
-</svg>

@@ -2,268 +2,268 @@
 	"iconDefinitions": {
 		// File types
 		"file.json": {
-			"iconPath": "./icons/file.json.png"
+			"iconPath": "./src/file.json.svg"
 		},
 		"file.c": {
-			"iconPath": "./icons/file.c.png"
+			"iconPath": "./src/file.c.svg"
 		},
 		"file.cpp": {
-			"iconPath": "./icons/file.cpp.png"
+			"iconPath": "./src/file.cpp.svg"
 		},
 		"file.d": {
-			"iconPath": "./icons/file.d.png"
+			"iconPath": "./src/file.d.svg"
 		},
 		"file.h": {
-			"iconPath": "./icons/file.h.png"
+			"iconPath": "./src/file.h.svg"
 		},
 		"file.js": {
-			"iconPath": "./icons/file.js.png"
+			"iconPath": "./src/file.js.svg"
 		},
 		"file.html": {
-			"iconPath": "./icons/file.html.png"
+			"iconPath": "./src/file.html.svg"
 		},
 		"file.css": {
-			"iconPath": "./icons/file.css.png"
+			"iconPath": "./src/file.css.svg"
 		},
 		"file.stylus": {
-			"iconPath": "./icons/file.stylus.png"
+			"iconPath": "./src/file.stylus.svg"
 		},
 		"file.sass": {
-			"iconPath": "./icons/file.sass.png"
+			"iconPath": "./src/file.sass.svg"
 		},
 		"file.less": {
-			"iconPath": "./icons/file.less.png"
+			"iconPath": "./src/file.less.svg"
 		},
 		"file.markdown": {
-			"iconPath": "./icons/file.markdown.png"
+			"iconPath": "./src/file.markdown.svg"
 		},
 		"file.xml": {
-			"iconPath": "./icons/file.xml.png"
+			"iconPath": "./src/file.xml.svg"
 		},
 		"file.cs": {
-			"iconPath": "./icons/file.cs.png"
+			"iconPath": "./src/file.cs.svg"
 		},
 		"file.fs": {
-			"iconPath": "./icons/file.fs.png"
+			"iconPath": "./src/file.fs.svg"
 		},
 		"file.go": {
-			"iconPath": "./icons/file.go.png"
+			"iconPath": "./src/file.go.svg"
 		},
 		"file.lua": {
-			"iconPath": "./icons/file.lua.png"
+			"iconPath": "./src/file.lua.svg"
 		},
 		"file.rust": {
-			"iconPath": "./icons/file.rust.png"
+			"iconPath": "./src/file.rust.svg"
 		},
 		"file.ruby": {
-			"iconPath": "./icons/file.ruby.png"
+			"iconPath": "./src/file.ruby.svg"
 		},
 		"file.python": {
-			"iconPath": "./icons/file.python.png"
+			"iconPath": "./src/file.python.svg"
 		},
 		"file.php": {
-			"iconPath": "./icons/file.php.png"
+			"iconPath": "./src/file.php.svg"
 		},
 		"file.julia": {
-			"iconPath": "./icons/file.julia.png"
+			"iconPath": "./src/file.julia.svg"
 		},
 		"file.haxe": {
-			"iconPath": "./icons/file.haxe.png"
+			"iconPath": "./src/file.haxe.svg"
 		},
 		"file.java": {
-			"iconPath": "./icons/file.java.png"
+			"iconPath": "./src/file.java.svg"
 		},
 		"file.ts": {
-			"iconPath": "./icons/file.ts.png"
+			"iconPath": "./src/file.ts.svg"
 		},
 		"file.d.ts": {
-			"iconPath": "./icons/file.d.ts.png"
+			"iconPath": "./src/file.d.ts.svg"
 		},
 		"file.vue": {
-			"iconPath": "./icons/file.vue.png"
+			"iconPath": "./src/file.vue.svg"
 		},
 		"file.haskell": {
-			"iconPath": "./icons/file.haskell.png"
+			"iconPath": "./src/file.haskell.svg"
 		},
 		"file.elixir": {
-			"iconPath": "./icons/file.elixir.png"
+			"iconPath": "./src/file.elixir.svg"
 		},
 		"file.text": {
-			"iconPath": "./icons/file.text.png"
+			"iconPath": "./src/file.text.svg"
 		},
 		"file.image": {
-			"iconPath": "./icons/file.image.png"
+			"iconPath": "./src/file.image.svg"
 		},
 		"file.font": {
-			"iconPath": "./icons/file.font.png"
+			"iconPath": "./src/file.font.svg"
 		},
 		"file.shell": {
-			"iconPath": "./icons/file.shell.png"
+			"iconPath": "./src/file.shell.svg"
 		},
 		"file.binary": {
-			"iconPath": "./icons/file.binary.png"
+			"iconPath": "./src/file.binary.svg"
 		},
 		"file.zip": {
-			"iconPath": "./icons/file.zip.png"
+			"iconPath": "./src/file.zip.svg"
 		},
 		"file.clojure": {
-			"iconPath": "./icons/file.clojure.png"
+			"iconPath": "./src/file.clojure.svg"
 		},
 		"file.sourcemap": {
-			"iconPath": "./icons/file.sourcemap.png"
+			"iconPath": "./src/file.sourcemap.svg"
 		},
 		"file.lib": {
-			"iconPath": "./icons/file.lib.png"
+			"iconPath": "./src/file.lib.svg"
 		},
 		"file.exe": {
-			"iconPath": "./icons/file.exe.png"
+			"iconPath": "./src/file.exe.svg"
 		},
 		"file.scala": {
-			"iconPath": "./icons/file.scala.png"
+			"iconPath": "./src/file.scala.svg"
 		},
 		"file.jade": {
-			"iconPath": "./icons/file.jade.png"
+			"iconPath": "./src/file.jade.svg"
 		},
 		"file.scheme": {
-			"iconPath": "./icons/file.scheme.png"
+			"iconPath": "./src/file.scheme.svg"
 		},
 		"file.lisp": {
-			"iconPath": "./icons/file.lisp.png"
+			"iconPath": "./src/file.lisp.svg"
 		},
 		"file.elisp": {
-			"iconPath": "./icons/file.elisp.png"
+			"iconPath": "./src/file.elisp.svg"
 		},
 		"file.tex": {
-			"iconPath": "./icons/file.tex.png"
+			"iconPath": "./src/file.tex.svg"
 		},
 		"file.ptl": { // this is ad.
-			"iconPath": "./icons/file.ptl.png"
+			"iconPath": "./src/file.ptl.svg"
 		},
 		"file.erlang": {
-			"iconPath": "./icons/file.erlang.png"
+			"iconPath": "./src/file.erlang.svg"
 		},
 		"file.swift": {
-			"iconPath": "./icons/file.swift.png"
+			"iconPath": "./src/file.swift.svg"
 		},
-		"file.coffeescript": {
-			"iconPath": "./icons/file.coffeescript.png"
+		"file.coffee": {
+			"iconPath": "./src/file.coffee.svg"
 		},
 		"file.objc": {
-			"iconPath": "./icons/file.objc.png"
+			"iconPath": "./src/file.objc.svg"
 		},
 		"file.vb": {
-			"iconPath": "./icons/file.vb.png"
+			"iconPath": "./src/file.vb.svg"
 		},
 		"file.handlebars": {
-			"iconPath": "./icons/file.handlebars.png"
+			"iconPath": "./src/file.handlebars.svg"
 		},
 		"file.powershell": {
-			"iconPath": "./icons/file.powershell.png"
+			"iconPath": "./src/file.powershell.svg"
 		},
 		"file.pester": {
-			"iconPath": "./icons/file.pester.png"
+			"iconPath": "./src/file.pester.svg"
 		},
 		"file.slim": {
-			"iconPath": "./icons/file.slim.png"
+			"iconPath": "./src/file.slim.svg"
 		},
 		// Config files
 		"config.npm": {
-			"iconPath": "./icons/config.npm.png"
+			"iconPath": "./src/config.npm.svg"
 		},
 		"config.git": {
-			"iconPath": "./icons/config.git.png"
+			"iconPath": "./src/config.git.svg"
 		},
 		"config.travis": {
-			"iconPath": "./icons/config.travis.png"
+			"iconPath": "./src/config.travis.svg"
 		},
 		"config.appveyor": {
-			"iconPath": "./icons/config.appveyor.png"
+			"iconPath": "./src/config.appveyor.svg"
 		},
 		"config.license": {
-			"iconPath": "./icons/config.license.png"
+			"iconPath": "./src/config.license.svg"
 		},
 		"config.editorconfig": {
-			"iconPath": "./icons/config.editorconfig.png"
+			"iconPath": "./src/config.editorconfig.svg"
 		},
 		"config.bower": {
-			"iconPath": "./icons/config.bower.png"
+			"iconPath": "./src/config.bower.svg"
 		},
 		"config.docker": {
-			"iconPath": "./icons/config.docker.png"
+			"iconPath": "./src/config.docker.svg"
 		},
 		"config.makefile": {
-			"iconPath": "./icons/config.makefile.png"
+			"iconPath": "./src/config.makefile.svg"
 		},
 		"config.dub": {
-			"iconPath": "./icons/config.dub.png"
+			"iconPath": "./src/config.dub.svg"
 		},
 		"config.grunt": {
-			"iconPath": "./icons/config.grunt.png"
+			"iconPath": "./src/config.grunt.svg"
 		},
 		"config.gulp": {
-			"iconPath": "./icons/config.gulp.png"
+			"iconPath": "./src/config.gulp.svg"
 		},
 		"config.eslint": {
-			"iconPath": "./icons/config.eslint.png"
+			"iconPath": "./src/config.eslint.svg"
 		},
 		"config.babel": {
-			"iconPath": "./icons/config.babel.png"
+			"iconPath": "./src/config.babel.svg"
 		},
 		"config.vs": {
-			"iconPath": "./icons/config.vs.png"
+			"iconPath": "./src/config.vs.svg"
 		},
 		// Folders
 		"folder.test.close": {
-			"iconPath": "./icons/folder.test.close.png"
+			"iconPath": "./src/folder.test.close.svg"
 		},
 		"folder.test.open": {
-			"iconPath": "./icons/folder.test.open.png"
+			"iconPath": "./src/folder.test.open.svg"
 		},
-		"folder.vscode.close": {
-			"iconPath": "./icons/folder.vscode.close.png"
+		"folder.vs.close": {
+			"iconPath": "./src/folder.vs.close.svg"
 		},
-		"folder.vscode.open": {
-			"iconPath": "./icons/folder.vscode.open.png"
+		"folder.vs.open": {
+			"iconPath": "./src/folder.vs.open.svg"
 		},
 		"folder.git.close": {
-			"iconPath": "./icons/folder.git.close.png"
+			"iconPath": "./src/folder.git.close.svg"
 		},
 		"folder.git.open": {
-			"iconPath": "./icons/folder.git.open.png"
+			"iconPath": "./src/folder.git.open.svg"
 		},
 		"folder.js.close": {
-			"iconPath": "./icons/folder.js.close.png"
+			"iconPath": "./src/folder.js.close.svg"
 		},
 		"folder.js.open": {
-			"iconPath": "./icons/folder.js.open.png"
+			"iconPath": "./src/folder.js.open.svg"
 		},
-		"folder.build.close": {
-			"iconPath": "./icons/folder.build.close.png"
+		"folder.dist.close": {
+			"iconPath": "./src/folder.dist.close.svg"
 		},
-		"folder.build.open": {
-			"iconPath": "./icons/folder.build.open.png"
+		"folder.dist.open": {
+			"iconPath": "./src/folder.dist.open.svg"
 		},
 		"folder.src.close": {
-			"iconPath": "./icons/folder.src.close.png"
+			"iconPath": "./src/folder.src.close.svg"
 		},
 		"folder.src.open": {
-			"iconPath": "./icons/folder.src.open.png"
+			"iconPath": "./src/folder.src.open.svg"
 		},
 		"folder.ts.close": {
-			"iconPath": "./icons/folder.ts.close.png"
+			"iconPath": "./src/folder.ts.close.svg"
 		},
 		"folder.ts.open": {
-			"iconPath": "./icons/folder.ts.open.png"
+			"iconPath": "./src/folder.ts.open.svg"
 		},
 		// General
 		"_folder_dark": {
-			"iconPath": "./icons/folder.close.svg"
+			"iconPath": "./src/folder.close.svg"
 		},
 		"_folder_open_dark": {
-			"iconPath": "./icons/folder.open.svg"
+			"iconPath": "./src/folder.open.svg"
 		},
 		"_file_dark": {
-			"iconPath": "./icons/file.svg"
+			"iconPath": "./src/file.svg"
 		}
 	},
 	"folderExpanded": "_folder_open_dark",
@@ -307,8 +307,8 @@
 		"d.ts": "file.d.ts",
 		"vue": "file.vue",
 		"xml": "file.xml",
-		"coffee": "file.coffeescript",
-		"litcoffee": "file.coffeescript",
+		"coffee": "file.coffee",
+		"litcoffee": "file.coffee",
 		"ex": "file.elixir",
 		"clj": "file.clojure",
 		"ss": "file.scheme",
@@ -384,6 +384,7 @@
 		"package.json": "config.npm",
 		".npmignore": "config.npm",
 		".tfignore": "config.vs",
+		".vscodeignore": "config.vs",
 		".gitignore": "config.git",
 		".gitattributes": "config.git",
 		".travis.yml": "config.travis",
@@ -411,28 +412,28 @@
 		".babelrc": "config.babel"
 	},
 	"folderNames": {
-		".vscode": "folder.vscode.close",
+		".vscode": "folder.vs.close",
 		".git": "folder.git.close",
 		"test": "folder.test.close",
 		"tests": "folder.test.close",
 		"node_modules": "folder.js.close",
-		"build": "folder.build.close",
-		"bin": "folder.build.close",
-		"dist": "folder.build.close",
+		"build": "folder.dist.close",
+		"bin": "folder.dist.close",
+		"dist": "folder.dist.close",
 		"src": "folder.src.close",
 		"source": "folder.src.close",
 		"lib": "folder.src.close",
 		"typings": "folder.ts.close"
 	},
 	"folderNamesExpanded": {
-		".vscode": "folder.vscode.open",
+		".vscode": "folder.vs.open",
 		".git": "folder.git.open",
 		"test": "folder.test.open",
 		"tests": "folder.test.open",
 		"node_modules": "folder.js.open",
-		"build": "folder.build.open",
-		"bin": "folder.build.open",
-		"dist": "folder.build.open",
+		"build": "folder.dist.open",
+		"bin": "folder.dist.open",
+		"dist": "folder.dist.open",
 		"src": "folder.src.open",
 		"source": "folder.src.open",
 		"lib": "folder.src.open",
