@@ -2,7 +2,7 @@
 	"name": "vscode-icontheme-nomo-dark",
 	"displayName": "Nomo Dark Icon Theme",
 	"description": "Nomo Dark Icon Theme",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"publisher": "be5invis",
 	"author": {
 		"email": "belleve@typeof.net",
@@ -15,6 +15,13 @@
 	"categories": [
 		"Themes"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/be5invis/vscode-iconset"
+	},
+	"bugs": {
+		"url": "https://github.com/be5invis/vscode-iconset/issues"
+	},
 	"keywords": [
 		"icon-theme",
 		"icons",

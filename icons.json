@@ -166,6 +166,18 @@
 		"file.slim": {
 			"iconPath": "./src/file.slim.svg"
 		},
+		"file.jsx": {
+			"iconPath": "./src/file.jsx.svg"
+		},
+		"file.tsx": {
+			"iconPath": "./src/file.tsx.svg"
+		},
+		"file.yaml": {
+			"iconPath": "./src/file.yaml.svg"
+		},
+		"file.toml": {
+			"iconPath": "./src/file.toml.svg"
+		},
 		// Config files
 		"config.npm": {
 			"iconPath": "./src/config.npm.svg"
@@ -282,7 +294,6 @@
 		"d": "file.d",
 		"di": "file.d",
 		"js": "file.js",
-		"jsx": "file.js",
 		"html": "file.html",
 		"htm": "file.html",
 		"css": "file.css",
@@ -311,6 +322,11 @@
 		"litcoffee": "file.coffee",
 		"ex": "file.elixir",
 		"clj": "file.clojure",
+		"jsx": "file.jsx",
+		"tsx": "file.tsx",
+		"toml": "file.toml",
+		"yml": "file.yaml",
+		"yaml": "file.yaml",
 		"ss": "file.scheme",
 		"scm": "file.scheme",
 		"lisp": "file.lisp",
