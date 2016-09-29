@@ -185,6 +185,9 @@
 		"config.git": {
 			"iconPath": "./src/config.git.svg"
 		},
+		"config.format": {
+			"iconPath": "./src/config.format.svg"
+		},
 		"config.travis": {
 			"iconPath": "./src/config.travis.svg"
 		},
@@ -399,6 +402,7 @@
 	"fileNames": {
 		"package.json": "config.npm",
 		".npmignore": "config.npm",
+		".esformatter": "config.format",
 		".tfignore": "config.vs",
 		".vscodeignore": "config.vs",
 		".gitignore": "config.git",
