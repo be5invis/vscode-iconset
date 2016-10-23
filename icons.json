@@ -264,6 +264,18 @@
 		"folder.src.open": {
 			"iconPath": "./src/folder.src.open.svg"
 		},
+		"folder.include.close": {
+			"iconPath": "./src/folder.include.close.svg"
+		},
+		"folder.include.open": {
+			"iconPath": "./src/folder.include.open.svg"
+		},
+		"folder.lib.close": {
+			"iconPath": "./src/folder.lib.close.svg"
+		},
+		"folder.lib.open": {
+			"iconPath": "./src/folder.lib.open.svg"
+		},
 		"folder.ts.close": {
 			"iconPath": "./src/folder.ts.close.svg"
 		},
@@ -441,8 +453,9 @@
 		"bin": "folder.dist.close",
 		"dist": "folder.dist.close",
 		"src": "folder.src.close",
+		"include": "folder.include.close",
 		"source": "folder.src.close",
-		"lib": "folder.src.close",
+		"lib": "folder.lib.close",
 		"typings": "folder.ts.close"
 	},
 	"folderNamesExpanded": {
@@ -455,8 +468,9 @@
 		"bin": "folder.dist.open",
 		"dist": "folder.dist.open",
 		"src": "folder.src.open",
+		"include": "folder.include.open",
 		"source": "folder.src.open",
-		"lib": "folder.src.open",
+		"lib": "folder.lib.open",
 		"typings": "folder.ts.open"
 	},
 	"languageIds": {
