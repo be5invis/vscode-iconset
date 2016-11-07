@@ -336,6 +336,7 @@
 		"coffee": "file.coffee",
 		"litcoffee": "file.coffee",
 		"ex": "file.elixir",
+		"exs": "file.elixir",
 		"clj": "file.clojure",
 		"jsx": "file.jsx",
 		"tsx": "file.tsx",
