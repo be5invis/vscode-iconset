@@ -97,6 +97,12 @@
 		"file.font": {
 			"iconPath": "./src/file.font.svg"
 		},
+		"file.crt": {
+			"iconPath": "./src/file.crt.svg"
+		},
+		"file.key": {
+			"iconPath": "./src/file.key.svg"
+		},
 		"file.shell": {
 			"iconPath": "./src/file.shell.svg"
 		},
@@ -409,7 +415,13 @@
 		"hbs": "file.handlebars",
 		"ps1": "file.powershell",
 		"tests.ps1": "file.pester",
-		"test.ps1": "file.pester"
+		"test.ps1": "file.pester",
+		"cer": "file.crt",
+		"cert": "file.crt",
+		"crt": "file.crt",
+		"der": "file.crt",
+		"key": "file.key",
+		"pem": "file.crt"
 	},
 	"fileNames": {
 		"package.json": "config.npm",
