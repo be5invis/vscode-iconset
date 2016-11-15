@@ -407,6 +407,7 @@
 		"so": "file.lib",
 		"zip": "file.zip",
 		"tar": "file.zip",
+		"tgz": "file.zip",
 		"gz": "file.zip",
 		"xz": "file.zip",
 		"bzip2": "file.zip",
