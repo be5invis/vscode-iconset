@@ -429,6 +429,7 @@
 		"package.json": "config.npm",
 		".npmignore": "config.npm",
 		".esformatter": "config.format",
+		".clang-format": "config.format",
 		".tfignore": "config.vs",
 		".vscodeignore": "config.vs",
 		".gitignore": "config.git",
