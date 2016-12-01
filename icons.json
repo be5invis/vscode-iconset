@@ -428,6 +428,7 @@
 	"fileNames": {
 		"package.json": "config.npm",
 		".npmignore": "config.npm",
+		".npmrc": "config.npm",
 		".esformatter": "config.format",
 		".clang-format": "config.format",
 		".tfignore": "config.vs",
@@ -456,6 +457,11 @@
 		"gruntfile": "config.grunt",
 		"gulpfile": "config.gulp",
 		".eslintrc": "config.eslint",
+		".eslintrc.js": "config.eslint",
+		".eslintrc.json": "config.eslint",
+		".eslintrc.yaml": "config.eslint",
+		".eslintrc.yml": "config.eslint",
+		".eslintignore": "config.eslint",
 		".babelrc": "config.babel"
 	},
 	"folderNames": {
