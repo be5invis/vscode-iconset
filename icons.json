@@ -97,6 +97,12 @@
 		"file.fst": {
 			"iconPath": "./src/file.fst.svg"
 		},
+		"file.ats": {
+			"iconPath": "./src/file.ats.svg"
+		},
+		"file.prolog": {
+			"iconPath": "./src/file.prolog.svg"
+		},
 		"file.elixir": {
 			"iconPath": "./src/file.elixir.svg"
 		},
@@ -380,6 +386,11 @@
 		"mli": "file.ml",
 		"mll": "file.ml",
 		"fst": "file.fst",
+		"sats": "file.ats",
+		"dats": "file.ats",
+		"pl": "file.prolog",
+		"pro": "file.prolog",
+		"P": "file.prolog",
 		"slim": "file.slim",
 		"skim": "file.slim",
 		"erl": "file.erlang",
