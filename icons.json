@@ -103,6 +103,12 @@
 		"file.prolog": {
 			"iconPath": "./src/file.prolog.svg"
 		},
+		"file.elm": {
+			"iconPath": "./src/file.elm.svg"
+		},
+		"file.purescript": {
+			"iconPath": "./src/file.purescript.svg"
+		},
 		"file.elixir": {
 			"iconPath": "./src/file.elixir.svg"
 		},
@@ -390,6 +396,8 @@
 		"dats": "file.ats",
 		"pro": "file.prolog",
 		"P": "file.prolog",
+		"elm": "file.elm",
+		"purs": "file.purescript",
 		"slim": "file.slim",
 		"skim": "file.slim",
 		"erl": "file.erlang",
