@@ -85,6 +85,18 @@
 		"file.haskell": {
 			"iconPath": "./src/file.haskell.svg"
 		},
+		"file.idris": {
+			"iconPath": "./src/file.idris.svg"
+		},
+		"file.coq": {
+			"iconPath": "./src/file.coq.svg"
+		},
+		"file.ml": {
+			"iconPath": "./src/file.ml.svg"
+		},
+		"file.fst": {
+			"iconPath": "./src/file.fst.svg"
+		},
 		"file.elixir": {
 			"iconPath": "./src/file.elixir.svg"
 		},
@@ -362,6 +374,12 @@
 		"patel": "file.ptl",
 		"hs": "file.haskell",
 		"lhs": "file.haskell",
+		"idr": "file.idris",
+		"v": "file.coq",
+		"ml": "file.ml",
+		"mli": "file.ml",
+		"mll": "file.ml",
+		"fst": "file.fst",
 		"slim": "file.slim",
 		"skim": "file.slim",
 		"erl": "file.erlang",
@@ -371,6 +389,7 @@
 		"mk": "config.makefile",
 		"make": "config.makefile",
 		"jade": "file.jade",
+		"pug": "file.jade",
 		"scala": "file.scala",
 		"js.map": "file.sourcemap",
 		"css.map": "file.sourcemap",
