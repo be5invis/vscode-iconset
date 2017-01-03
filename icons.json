@@ -388,7 +388,6 @@
 		"fst": "file.fst",
 		"sats": "file.ats",
 		"dats": "file.ats",
-		"pl": "file.prolog",
 		"pro": "file.prolog",
 		"P": "file.prolog",
 		"slim": "file.slim",
@@ -526,6 +525,7 @@
 	},
 	"languageIds": {
 		"objective-c": "file.objc",
+		"prolog": "file.prolog",
 		"slim": "slim"
 	}
 }
