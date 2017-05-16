@@ -257,6 +257,9 @@
 		"config.vs": {
 			"iconPath": "./src/config.vs.svg"
 		},
+		"config.yarn": {
+			"iconPath": "./src/config.yarn.svg"
+		},
 		// Folders
 		"folder.test.close": {
 			"iconPath": "./src/folder.test.close.svg"
@@ -492,14 +495,18 @@
 		"dub.sdl": "config.dub",
 		"dub.selections.json": "config.dub",
 		"gruntfile": "config.grunt",
+		"gruntfile.js": "config.grunt",
 		"gulpfile": "config.gulp",
+		"gulpfile.js": "config.gulp",
+		"gulpfile.babel.js": "config.gulp",
 		".eslintrc": "config.eslint",
 		".eslintrc.js": "config.eslint",
 		".eslintrc.json": "config.eslint",
 		".eslintrc.yaml": "config.eslint",
 		".eslintrc.yml": "config.eslint",
 		".eslintignore": "config.eslint",
-		".babelrc": "config.babel"
+		".babelrc": "config.babel",
+		"yarn.lock": "config.yarn"
 	},
 	"folderNames": {
 		".vscode": "folder.vs.close",
