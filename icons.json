@@ -511,6 +511,7 @@
 	"folderNames": {
 		".vscode": "folder.vs.close",
 		".git": "folder.git.close",
+		"spec": "folder.test.close",
 		"test": "folder.test.close",
 		"tests": "folder.test.close",
 		"__tests__": "folder.test.close",
@@ -530,6 +531,7 @@
 	"folderNamesExpanded": {
 		".vscode": "folder.vs.open",
 		".git": "folder.git.open",
+		"spec": "folder.test.open",
 		"test": "folder.test.open",
 		"tests": "folder.test.open",
 		"__tests__": "folder.test.open",
