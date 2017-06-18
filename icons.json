@@ -10,6 +10,9 @@
 		"file.cpp": {
 			"iconPath": "./src/file.cpp.svg"
 		},
+		"file.cr": {
+			"iconPath": "./src/file.cr.svg"
+		},
 		"file.d": {
 			"iconPath": "./src/file.d.svg"
 		},
@@ -463,7 +466,9 @@
 		"crt": "file.crt",
 		"der": "file.crt",
 		"key": "file.key",
-		"pem": "file.crt"
+		"pem": "file.crt",
+		"cr": "file.cr",
+		"ecr": "file.cr"
 	},
 	"fileNames": {
 		"package.json": "config.npm",
