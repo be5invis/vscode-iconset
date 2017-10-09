@@ -345,6 +345,7 @@
 		"d": "file.d",
 		"di": "file.d",
 		"js": "file.js",
+		"mjs": "file.js",
 		"html": "file.html",
 		"htm": "file.html",
 		"css": "file.css",
