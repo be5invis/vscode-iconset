@@ -202,6 +202,9 @@
 		"file.jsx": {
 			"iconPath": "./src/file.jsx.svg"
 		},
+		"file.gql": {
+			"iconPath": "./src/file.gql.svg"
+		},
 		"file.tsx": {
 			"iconPath": "./src/file.tsx.svg"
 		},
@@ -376,6 +379,7 @@
 		"exs": "file.elixir",
 		"clj": "file.clojure",
 		"jsx": "file.jsx",
+		"gql": "file.gql",
 		"tsx": "file.tsx",
 		"toml": "file.toml",
 		"yml": "file.yaml",
