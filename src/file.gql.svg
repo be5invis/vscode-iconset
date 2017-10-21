@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+    <defs>
+        <circle id="circle" cx="0" cy="0" r="2.5"/>
+    </defs>
+    <g fill="#e535ab">
+        <use x="16" y="6" xlink:href="#circle"/>
+        <use x="7" y="11" xlink:href="#circle"/>
+        <use x="7" y="22" xlink:href="#circle"/>
+        <use x="16" y="26" xlink:href="#circle"/>
+        <use x="25" y="22" xlink:href="#circle"/>
+        <use x="25" y="11" xlink:href="#circle"/>
+    </g>
+    <g fill="none" stroke="#e535ab" stroke-width="1">
+        <polygon points="16,6 7,11 7,22 16,26 25,22 25,11"/>
+        <polygon points="16,6 7,21 25,21"/>
+    </g>
+</svg>
