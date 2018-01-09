@@ -535,7 +535,8 @@
 		"include": "folder.include.close",
 		"source": "folder.src.close",
 		"lib": "folder.lib.close",
-		"typings": "folder.ts.close"
+		"typings": "folder.ts.close",
+		"types": "folder.ts.close"
 	},
 	"folderNamesExpanded": {
 		".vscode": "folder.vs.open",
@@ -554,7 +555,8 @@
 		"include": "folder.include.open",
 		"source": "folder.src.open",
 		"lib": "folder.lib.open",
-		"typings": "folder.ts.open"
+		"typings": "folder.ts.open",
+		"types": "folder.ts.open"
 	},
 	"languageIds": {
 		"objective-c": "file.objc",
