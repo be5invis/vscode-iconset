@@ -58,6 +58,9 @@
 		"file.rust": {
 			"iconPath": "./src/file.rust.svg"
 		},
+		"file.ruota": {
+			"iconPath": "./src/file.ruota.svg"
+		},
 		"file.ruby": {
 			"iconPath": "./src/file.ruby.svg"
 		},
@@ -363,6 +366,7 @@
 		"lua": "file.lua",
 		"rs": "file.rust",
 		"py": "file.python",
+		"ruo": "file.ruota",
 		"rb": "file.ruby",
 		"jl": "file.julia",
 		"php": "file.php",
