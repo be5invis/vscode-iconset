@@ -64,6 +64,9 @@
 		"file.ruby": {
 			"iconPath": "./src/file.ruby.svg"
 		},
+		"file.cucumber": {
+			"iconPath": "./src/file.cucumber.svg"
+		},
 		"file.python": {
 			"iconPath": "./src/file.python.svg"
 		},
@@ -362,6 +365,7 @@
 		"md": "file.markdown",
 		"cs": "file.cs",
 		"fs": "file.fs",
+		"feature": "file.feature",
 		"go": "file.go",
 		"lua": "file.lua",
 		"rs": "file.rust",
