@@ -342,6 +342,7 @@
 	"folder": "_folder_dark",
 	"file": "_file_dark",
 	"fileExtensions": {
+		"dockerfile": "config.docker",
 		"json": "file.json",
 		"c": "file.c",
 		"h": "file.h",
