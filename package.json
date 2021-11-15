@@ -1,11 +1,27 @@
 {
 	"name": "vscode-icontheme-nomo-dark",
 	"displayName": "Nomo Dark Icon Theme",
-	"version": "1.3.6",
 	"description": "Nomo Dark Icon Theme",
+	"version": "1.3.6",
+	"publisher": "be5invis",
+	"author": {
+		"email": "belleve@typeof.net",
+		"name": "Belleve Invis",
+		"url": "https://typeof.net"
+	},
+	"engines": {
+		"vscode": "^1.5.0"
+	},
 	"categories": [
 		"Themes"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/be5invis/vscode-iconset"
+	},
+	"bugs": {
+		"url": "https://github.com/be5invis/vscode-iconset/issues"
+	},
 	"keywords": [
 		"icon-theme",
 		"icons",
@@ -13,20 +29,7 @@
 		"theme",
 		"ui"
 	],
-	"bugs": {
-		"url": "https://github.com/be5invis/vscode-iconset/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/be5invis/vscode-iconset"
-	},
-	"license": "MIT",
-	"author": {
-		"name": "Belleve Invis",
-		"email": "belleve@typeof.net",
-		"url": "https://typeof.net"
-	},
-	"publisher": "be5invis",
+	"icon": "logo.png",
 	"contributes": {
 		"iconThemes": [
 			{
@@ -36,8 +39,10 @@
 			}
 		]
 	},
-	"engines": {
-		"vscode": "^1.5.0"
-	},
-	"icon": "logo.png"
+	"__metadata": {
+		"id": "e0ee11e7-aa20-4e86-a3b9-2cd7d14fed93",
+		"publisherId": "8c148d69-cbc6-480b-bd8b-a42715926324",
+		"publisherDisplayName": "be5invis",
+		"installedTimestamp": 1636970558066
+	}
 }
