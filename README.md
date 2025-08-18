@@ -1,6 +1,7 @@
 # Nomo Dark icon set for Visual Studio Code
 
-![Preview](https://github.com/be5invis/vscode-iconset/raw/master/preview.png)
+// To add
+
 
 To Enable:
 
