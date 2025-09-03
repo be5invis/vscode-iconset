@@ -263,6 +263,12 @@
 		"config.gulp": {
 			"iconPath": "./src/config.gulp.svg"
 		},
+		"config.cuda": {
+			"iconPath": "./src/config.cuda.svg"
+		},
+		"config.cudaH": {
+			"iconPath": "./src/config.cudaH.svg"
+		},
 		"config.eslint": {
 			"iconPath": "./src/config.eslint.svg"
 		},
@@ -348,6 +354,8 @@
 		"ino":"file.ino",
 		"json": "file.json",
 		"c": "file.c",
+		"cu": "config.cuda",
+		"cuh": "config.cudaH",
 		"h": "file.h",
 		"hpp": "file.h",
 		"hxx": "file.h",
