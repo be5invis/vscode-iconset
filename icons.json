@@ -43,6 +43,9 @@
 		"file.xml": {
 			"iconPath": "./src/file.xml.svg"
 		},
+		"file.ino": {
+			"iconPath": "./src/file.ino.svg"
+		},
 		"file.cs": {
 			"iconPath": "./src/file.cs.svg"
 		},
@@ -348,6 +351,7 @@
 	"folder": "_folder_dark",
 	"file": "_file_dark",
 	"fileExtensions": {
+		"ino":"file.ino",
 		"json": "file.json",
 		"c": "file.c",
 		"cu": "config.cuda",
