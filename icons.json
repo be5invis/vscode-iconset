@@ -43,6 +43,9 @@
 		"file.xml": {
 			"iconPath": "./src/file.xml.svg"
 		},
+		"file.ino": {
+			"iconPath": "./src/file.ino.svg"
+		},
 		"file.cs": {
 			"iconPath": "./src/file.cs.svg"
 		},
@@ -260,6 +263,12 @@
 		"config.gulp": {
 			"iconPath": "./src/config.gulp.svg"
 		},
+		"config.cuda": {
+			"iconPath": "./src/config.cuda.svg"
+		},
+		"config.cudaH": {
+			"iconPath": "./src/config.cudaH.svg"
+		},
 		"config.eslint": {
 			"iconPath": "./src/config.eslint.svg"
 		},
@@ -343,8 +352,11 @@
 	"file": "_file_dark",
 	"fileExtensions": {
 		"dockerfile": "config.docker",
+		"ino":"file.ino",
 		"json": "file.json",
 		"c": "file.c",
+		"cu": "config.cuda",
+		"cuh": "config.cudaH",
 		"h": "file.h",
 		"hpp": "file.h",
 		"hxx": "file.h",
