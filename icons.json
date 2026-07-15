@@ -460,6 +460,7 @@
 		"jpeg": "file.image",
 		"gif": "file.image",
 		"png": "file.image",
+		"webp": "file.image",
 		"svg": "file.image",
 		"tif": "file.image",
 		"tiff": "file.image",
